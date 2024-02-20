@@ -3,7 +3,7 @@ import Grid2 from '@mui/material/Unstable_Grid2/Grid2';
 import { Box } from '@mui/material';
 
 const API_KEY =
-    'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzMWViM2M3MzVjMzVhOWM3NjhmNzU0YjEwNDg0YjUyNCIsInN1YiI6IjY1MmVlMTQ0MzU4ZGE3NWI2MWY5OGQ1ZCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Qy-KDPGApZ7kxUjyzc8ehRKlJrysrh7AUQ_vfmCjVl8';
+    '[API_KEY_GOES_HERE]'; // Go to https://www.themoviedb.org/ to create an api key
 
 const URL = 'https://api.themoviedb.org/3/movie/popular';
 
